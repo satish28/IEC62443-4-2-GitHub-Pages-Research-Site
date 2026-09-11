@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+.vscode/
+*.pcap
+*.pcapng
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+*.log
+*.:Zone.Identifier
